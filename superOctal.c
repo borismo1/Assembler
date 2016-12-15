@@ -1,13 +1,4 @@
-/*
- * base8Special.c
- *
- *  Created on: 6 рту. 2016 у.
- *      Author: Maria
- */
-
-
 //BORIS MOROZOV
-//I.D. 314396177
 
 #include "main.h"
 
