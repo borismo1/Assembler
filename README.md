@@ -1,4 +1,4 @@
-# Assembler written in ansi C
+# A simple assembler written in ansi C
 
 Receives an assembley code and returns machine code.  
 
