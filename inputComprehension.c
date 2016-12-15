@@ -1,5 +1,4 @@
 //BORIS MOROZOV
-//I.D. 314396177
 
 
 
